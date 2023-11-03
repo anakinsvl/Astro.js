@@ -1,0 +1,7 @@
+{
+  "extends": "astro/tsconfigs/base",
+  "typeRoots": [
+    "./node_modules/@types",
+    "./node_modules/@astrojs/client/ssr"
+  ]
+}
